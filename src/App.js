@@ -42,7 +42,7 @@ export default function App() {
     return (
         <div className="pageBody">
             <div className="navBar">
-                <div className="appName"> AMM </div>
+                <div className="appName"> Avaswap </div>
                 {myContract === null ? (
                     <div className="connectBtn" onClick={() => connect()}>
                         {" "}

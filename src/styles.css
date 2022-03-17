@@ -188,6 +188,7 @@ body,
 svg {
     height: 50px;
     width: 50px;
+    cursor: pointer;
 }
 
 .connectBtn {
@@ -208,6 +209,7 @@ svg {
 .connectBtn:hover {
     color: white;
     border: 2px solid #c8332e;
+    cursor: pointer;
 }
 
 .connected {
